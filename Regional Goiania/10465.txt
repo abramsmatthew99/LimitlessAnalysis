@@ -1,0 +1,37 @@
+Pokémon (8)
+4 Snorlax PGO 55
+1 Rotom V CRZ 45
+1 Crabominable V FST 76
+1 Pidgeot V LOR 137
+1 Mimikyu PAF 37
+
+Trainer (51)
+4 Arven OBF 186
+3 Miss Fortune Sisters LOR 164
+3 Penny SVI 183
+2 Boss's Orders PAL 172
+2 Iono PAF 80
+2 Erika's Invitation MEW 160
+1 Giacomo PAL 182
+1 Sidney FST 241
+1 Peonia CRE 149
+1 Team Yell's Cheer BRS 149
+1 Cyllene ASR 138
+4 Nest Ball PAF 84
+4 Pokégear 3.0 SVI 186
+4 Counter Catcher PAR 160
+2 Pal Pad SVI 182
+2 Switch Cart ASR 154
+1 Battle VIP Pass FST 225
+1 Hisuian Heavy Ball ASR 146
+1 Super Rod PAL 188
+1 Echoing Horn CRE 136
+1 Lure Module PGO 67
+3 Bravery Charm PAL 173
+1 Luxurious Cape PAR 166
+1 Forest Seal Stone SIT 156
+2 Temple of Sinnoh ASR 155
+2 Pokémon League Headquarters OBF 192
+
+Energy (1)
+1 Water Energy 3
