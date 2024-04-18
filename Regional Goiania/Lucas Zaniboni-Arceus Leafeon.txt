@@ -1,0 +1,31 @@
+Pokémon (19)
+4 Arceus V BRS 122
+3 Arceus VSTAR BRS 123
+2 Bidoof CRZ 111
+2 Bibarel BRS 121
+2 Leafeon V EVS 7
+2 Leafeon VSTAR CRZ 14
+1 Jirachi PAR 126
+1 Minior PAR 99
+1 Spiritomb PAL 89
+1 Skwovet SVI 151
+
+Trainer (27)
+3 Boss's Orders PAL 172
+3 Iono PAF 80
+3 Judge SVI 176
+1 Cheren's Care BRS 134
+1 Professor's Research PAF 88
+4 Ultra Ball PAF 91
+4 Nest Ball PAF 84
+1 Lost Vacuum CRZ 135
+1 Switch SVI 194
+1 Choice Belt PAL 176
+1 Vengeful Punch OBF 197
+4 Path to the Peak CRE 148
+
+Energy (14)
+6 Grass Energy 1
+4 Double Turbo Energy BRS 151
+2 Jet Energy PAL 190
+2 V Guard Energy SIT 169
